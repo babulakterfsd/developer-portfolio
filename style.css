@@ -49,6 +49,7 @@ h2 {
 .experience-item {
     width: 40%;
     margin: 0% 5%;
+    padding: 15px 10px 80px;
     padding-left: 20px;
     border-radius: 10px;
     box-shadow: 10px 10px 40px gray;
